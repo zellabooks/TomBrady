@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tom Brady</string>
+    <string name="title_item_detail">American Foot Ball</string>
+    <string name="txtTomBrady">Thomas Edward Patrick Brady Jr. (born August 3, 1977) is an American football quarterback for the New England Patriots of the National Football League (NFL). Brady has played in nine Super Bowls, in which he won six of them, the most of any football player in NFL history. Due to his numerous accomplishments, records, and accolades, he is considered by many sports analysts to be the greatest quarterback of all time.</string>
+    <string name="txtStats">Tom Brady Stats</string>
+    <string name="txtDescription">Tom Brady Image</string>
+</resources>

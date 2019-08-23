@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TableRow>
+
+        <TextView
+            android:layout_width="700sp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingRight="40sp"
+            android:text="@string/txtDescription"
+            android:textSize="30sp" />
+    </TableRow>
+    <TableRow>
+
+    <ImageView
+            android:id="@+id/imgBike"
+            android:layout_width="359dp"
+            android:layout_height="597dp"
+            android:contentDescription="@string/txtDescription"
+            android:padding="15sp"
+            android:src="@drawable/tombrady" />
+    </TableRow>
+
+
+</TableLayout>

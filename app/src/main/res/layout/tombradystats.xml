@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/txtTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:foregroundGravity="center"
+        android:gravity="center_horizontal"
+        android:paddingLeft="50sp"
+        android:paddingBottom="60sp"
+        android:text="@string/txtStats"
+        android:textSize="50sp" />
+
+    <TextView
+        android:id="@+id/txtInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="40sp"
+        android:paddingRight="40sp"
+        android:text="@string/txtTomBrady"
+        android:textSize="50sp" />
+
+</LinearLayout>
